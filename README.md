@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chadaniss
+- 👋 Hi, I’m chadanis.
 - 👀 I’m a good tempered and good listener person. Able to adapt to any kind of environment and ready to learn new things.
 - 🌱 I’m currently learning Typescript.
 - 📫 How to reach me chadanis.wo@gmail.com
