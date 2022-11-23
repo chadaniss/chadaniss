@@ -2,7 +2,7 @@
 - 👋 Hi, I’m chadanis.</br>
 - 👀 I’m a good tempered and good listener person. Able to adapt to any kind of environment and ready to learn new things.</br>
 - 🌱 I’m currently learning Typescript.</br>
-- 📫 How to reach me chadanis.wo@gmail.com</br>
+- 📫 How to reach me chadanis.wo@gmail.com</br></br>
 
 Languages and Tools:
 <br/><br/>
